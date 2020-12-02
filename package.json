@@ -29,7 +29,7 @@
     "prism-media": "^0.0.2",
     "process-nextick-args": "^1.0.7",
     "rebuild": "^0.1.2",
-    "showdown": "^1.8.1",
+    "showdown": "^1.9.1",
     "simple-youtube-api": "^5.0.0",
     "url": "^0.11.0",
     "util-deprecate": "^1.0.2",
